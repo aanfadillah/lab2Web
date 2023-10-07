@@ -33,11 +33,17 @@
 1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
 
 header{
+
     background-image: url(d:/mreza/maulana.jpg);
+    
     background-position: center center;
+    
     background-size: 630px;
+    
     background-repeat: no-repeat;
+    
     border: 4px solid #000;
+    
 }
 
 2. Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan penjelasannya!
