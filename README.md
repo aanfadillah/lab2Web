@@ -35,13 +35,9 @@
 header{
 
     background-image: url(d:/mreza/maulana.jpg);
-    
     background-position: center center;
-    
     background-size: 630px;
-    
     background-repeat: no-repeat;
-    
     border: 4px solid #000;
     
 }
